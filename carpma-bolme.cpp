@@ -15,5 +15,6 @@ int carpmaBolme(double a, double b, char islem) {
         cout << "Gecersiz islem!" << endl;
     }
 
-    return 0;
+return 0;
 }
+
