@@ -26,3 +26,26 @@ Proje, **2 kişilik bir ekip** tarafından hazırlanmıştır. Kodlar **GitHub**
 
 * Temel **C++** sözdizimini ve giriş/çıkış işlemlerini öğrenmek
 * **GitHub** üzerinden ekip halinde proje yürütmeyi öğrenmek
+
+## ❓ Nasıl Derlenir
+
+*Bu proje iki ayrı C++ dosyasından oluşmaktadır:
+🔹 veriler.cpp
+🔹 islemler.cpp
+ 
+ *Git Bash veya terminal üzerinden derlemek için aşağıdaki adımları izleyin:
+
+🔹 1. Proje Klasörüne Girin
+
+cd "C:/Users/kullanici_adi/Desktop/Basic-Calculator-"
+
+🔹 2. Dosyaları Derleyin
+
+g++ veriler.cpp islemler.cpp -o program
+
+
+*Bu komut, iki dosyayı birleştirip program.exe adında çalıştırılabilir bir dosya oluşturur.
+
+🔹 3. Programı Çalıştırın
+
+./program
