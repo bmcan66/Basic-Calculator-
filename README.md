@@ -10,7 +10,7 @@ Proje, **2 kişilik bir ekip** tarafından hazırlanmıştır. Kodlar **GitHub**
 
 ## 👥 Grup Üyeleri
 
-* **İbrahim Can Kaya:** Kullanıcıdan sayı alma ve toplama-çıkarma işlemleri yapan kısmı kodladı.
+* **İbrahim Can Kaya:** Kullanıcıdan sayı alma ve işlem türü alma kısmını kodladı.
 * **Emre Yürekdeler:** Çarpma-bölme işlemleri yapan ve sonucu ekrana yazdıran kısmı kodladı.
 
 ---
