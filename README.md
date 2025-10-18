@@ -37,15 +37,15 @@ Proje, **2 kişilik bir ekip** tarafından hazırlanmıştır. Kodlar **GitHub**
  
  * Git Bash veya terminal üzerinden derlemek için aşağıdaki adımları izleyin:
 
-🔹 1. Proje Klasörüne Girin
+ * 1. Proje Klasörüne Girin
 
-🔹 2. Dosyaları Derleyin
+* 2. Dosyaları Derleyin
 
 * g++ veriler.cpp islemler.cpp -o program
 
 
 * Bu komut, iki dosyayı birleştirip program.exe adında çalıştırılabilir bir dosya oluşturur.
 
-🔹 3. Programı Çalıştırın
+* 3. Programı Çalıştırın
 
 ./program
