@@ -29,11 +29,11 @@ Proje, **2 kişilik bir ekip** tarafından hazırlanmıştır. Kodlar **GitHub**
 
 ## ❓ Nasıl Derlenir
 
-*Bu proje iki ayrı C++ dosyasından oluşmaktadır:
+* Bu proje iki ayrı C++ dosyasından oluşmaktadır:
 🔹 veriler.cpp
 🔹 islemler.cpp
  
- *Git Bash veya terminal üzerinden derlemek için aşağıdaki adımları izleyin:
+ * Git Bash veya terminal üzerinden derlemek için aşağıdaki adımları izleyin:
 
 🔹 1. Proje Klasörüne Girin
 
@@ -44,7 +44,7 @@ cd "C:/Users/kullanici_adi/Desktop/Basic-Calculator-"
 g++ veriler.cpp islemler.cpp -o program
 
 
-*Bu komut, iki dosyayı birleştirip program.exe adında çalıştırılabilir bir dosya oluşturur.
+* Bu komut, iki dosyayı birleştirip program.exe adında çalıştırılabilir bir dosya oluşturur.
 
 🔹 3. Programı Çalıştırın
 
