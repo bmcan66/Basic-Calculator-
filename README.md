@@ -27,6 +27,8 @@ Proje, **2 kişilik bir ekip** tarafından hazırlanmıştır. Kodlar **GitHub**
 * Temel **C++** sözdizimini ve giriş/çıkış işlemlerini öğrenmek
 * **GitHub** üzerinden ekip halinde proje yürütmeyi öğrenmek
 
+---
+
 ## ❓ Nasıl Derlenir
 
 * Bu proje iki ayrı C++ dosyasından oluşmaktadır:
