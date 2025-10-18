@@ -37,8 +37,6 @@ Proje, **2 kişilik bir ekip** tarafından hazırlanmıştır. Kodlar **GitHub**
 
 🔹 1. Proje Klasörüne Girin
 
-cd "C:/Users/kullanici_adi/Desktop/Basic-Calculator-"
-
 🔹 2. Dosyaları Derleyin
 
 g++ veriler.cpp islemler.cpp -o program
