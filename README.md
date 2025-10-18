@@ -39,7 +39,7 @@ Proje, **2 kişilik bir ekip** tarafından hazırlanmıştır. Kodlar **GitHub**
 
 🔹 2. Dosyaları Derleyin
 
-g++ veriler.cpp islemler.cpp -o program
+* g++ veriler.cpp islemler.cpp -o program
 
 
 * Bu komut, iki dosyayı birleştirip program.exe adında çalıştırılabilir bir dosya oluşturur.
