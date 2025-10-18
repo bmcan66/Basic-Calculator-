@@ -10,8 +10,8 @@ Proje, **2 kişilik bir ekip** tarafından hazırlanmıştır. Kodlar **GitHub**
 
 ## 👥 Grup Üyeleri
 
-* **İbrahim Can Kaya:** Kullanıcıdan sayı alma ve işlem türü alma kısmını kodladı.
-* **Emre Yürekdeler:**  İşlemleri yapan ve sonucu ekrana yazdıran kısmı kodladı.
+* **İbrahim Can Kaya(16008125037):** Kullanıcıdan sayı alma ve işlem türü alma kısmını kodladı.
+* **Emre Yürekdeler(16008125075):**  İşlemleri yapan ve sonucu ekrana yazdıran kısmı kodladı.
 ---
 
 ## 🧩 Programın Özellikleri
